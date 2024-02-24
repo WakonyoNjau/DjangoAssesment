@@ -1,0 +1,55 @@
+.doc1{
+    background-image: url("camping-6.jpg");
+    width: 100%;
+    height: 120vh;
+}
+.doc1 h1{
+    text-align: center;
+}
+.doc1 h4{
+       text-align: center;
+
+}
+.doc1 {
+       text-align: center;
+}
+.doc1 p{
+    text-decoration-color: white;
+}
+.doc1 button{
+    background-color: deepskyblue;
+}
+
+
+.doc h1{
+    text-decoration-color: black;
+    text-align: center;
+}.doc h4{
+    text-decoration-color: black;
+    text-align: center;
+ }
+ .doc h5{
+     text-align: center
+ }
+
+.doc .navbar-text{
+    text-align: center;
+}
+.doc2 {
+    text-align: center;
+
+}
+.doc2 button{
+    background-color: red;
+}
+.doc2 .container-fluid{
+    text-align: center;
+}
+.doc button{
+    background-color: blue;
+}
+
+.doc{
+    text-align: center;
+    align-content: center;
+}
